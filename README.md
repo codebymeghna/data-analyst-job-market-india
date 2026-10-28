@@ -24,19 +24,19 @@ An end-to-end Python analysis of **5,000 Indian tech job postings (June 2024 –
 ## Visual Results
 
 ### Skills employers ask for
-![Top skills in Data Analyst postings](visualizations/top_skills.png)
+![top skills](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/top_skills.png)
 
 ### Salary by experience level
-![Data Analyst salary by experience](visualizations/salary_by_experience.png)
+![salary by experience](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/salary_by_experience.png)
 
 ### Salary distribution
-![Salary distribution](visualizations/salary_distribution.png)
+![salary distribution](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/salary_distribution.png)
 
 ### Where the jobs are
-![Top cities](visualizations/top_cities.png)
+![top cities](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/top_cities.png)
 
 ### Hiring trend over time
-![Monthly job trends](visualizations/monthly_job_trends.png)
+![Monthly job trends](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/monthly_job_trends.png)
 
 ---
 
