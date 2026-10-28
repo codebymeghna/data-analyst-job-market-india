@@ -23,20 +23,9 @@ An end-to-end Python analysis of **5,000 Indian tech job postings (June 2024 –
 
 ## Visual Results
 
-### Skills employers ask for
-![top skills](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/top_skills.png)
+📊 **Charts and full analysis:** see [`notebooks/job_market_analysis.ipynb`](notebooks/job_market_analysis.ipynb)
 
-### Salary by experience level
-![salary by experience](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/salary_by_experience.png)
-
-### Salary distribution
-![salary distribution](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/salary_distribution.png)
-
-### Where the jobs are
-![top cities](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/top_cities.png)
-
-### Hiring trend over time
-![Monthly job trends](https://raw.githubusercontent.com/codebymeghna/data-analyst-job-market-india/main/visualizations/monthly_job_trends.png)
+The notebook walks through all five charts (top skills, salary by experience, salary distribution, top cities and monthly hiring trends) with the findings explained next to each one.
 
 ---
 
